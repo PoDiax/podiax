@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello I'm [PoDiax](https://github.com/PoDiax).
+**I know this programming languages python, node.js, C# & Tags HTML, CSS**
+<p>&nbsp;</p>
 
-<!--
-**PoDiax/podiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Working on a**
+- CSS theme for shinden.pl
+- P2P Chat app (Node.Js)
+-  My own API.
+- Some C# apps
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Accounts**
+* [Steam](https://steamcommunity.com/id/PoDiax)
+* [GitHub](https://github.com/PoDiax)
