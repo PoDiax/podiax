@@ -4,9 +4,7 @@
 
 **I'm Working on a**
 - CSS theme for shinden.pl
-- P2P Chat app (Node.Js)
--  My own API.
-- Some C# apps
+- Unity/C# Game
 
 **Accounts**
 * [Steam](https://steamcommunity.com/id/PoDiax)
