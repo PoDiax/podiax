@@ -1,5 +1,5 @@
 ### Hello I'm [PoDiax](https://github.com/PoDiax).
-**I know this programming languages python, node.js, C# & Tags HTML, CSS**
+**I know this programming languages python, C#
 <p>&nbsp;</p>
 
 **I'm Working on a**
