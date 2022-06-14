@@ -4,7 +4,7 @@
 
 **I'm Working on a**
 - CSS theme for shinden.pl
-- Unity/C# Game
+- Discord Bot
 
 **Accounts**
 * [Steam](https://steamcommunity.com/id/PoDiax)
