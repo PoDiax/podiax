@@ -2,6 +2,7 @@
   {
     "name": "Steam Collection Size Viewer",
     "url": "https://github.com/PoDiax/SCSV",
-    "image": "https://github.com/PoDiax/SCSV/raw/main/icon.png?raw=true"
+    "image": "https://github.com/PoDiax/SCSV/raw/main/icon.png?raw=true",
+    "recent": true
   }
 ]
