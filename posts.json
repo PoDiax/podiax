@@ -7,5 +7,14 @@
         "image": {
             "url": "https://m.media-amazon.com/images/I/519d3R0AvQL._AC_SL1000_.jpg"
         }
+    },
+    {
+        "title": "MSI MPG X870E CARBON WIFI – Excellent Linux Compatibility!",
+        "author": "PoDiax",
+        "date": "2025-05-20T14:17:19.220665",
+        "content": "I've tested numerous motherboards, and the MSI MPG X870E CARBON WIFI stands out as one of the best for my Arch Linux system. Not only does the WiFi work flawlessly, but I2C devices also run smoothly without causing crashes in my OpenRGB setup!\nThe build quality is outstanding, and thanks to the robust X870E chipset from AMD, this motherboard is a future-proof choice for upgrades.\nTest Setup:\n    Processor: Ryzen 7 7800\n    RAM: 32GB DDR5 @ 6200MHz\nIf you're looking for a reliable Linux-compatible motherboard with top-notch performance, check it out:\n<a href=\"https://www.amazon.com/MSI-MPG-X870E-Motherboard-Processors/dp/B0DG3QW9TJ?th=1&linkCode=ll1&tag=podiax-20&linkId=b21993395f79eceda3b834927f7e16f5&language=en_US&ref_=as_li_ss_tl\" class=\"text-gray-200 underline hover:text-blue-500\" target=\"_blank\">Amazon.com</a>\n<a href=\"https://www.amazon.pl/dp/B0DCZXJ32B?th=1&psc=1&utm_source=ceneo&utm_feed=amselect&utm_medium=referral&ascSubtag=b917dafc-a514-a695-b204-9a8c7fbec69e&linkCode=ll1&tag=podiax-21&linkId=6687dd53ccbb3469c0f4231735ee14e3&language=pl_PL&ref_=as_li_ss_tl\" class=\"text-gray-200 underline hover:text-blue-500\" target=\"_blank\">Amazon.pl</a>",
+        "image": {
+            "url": "https://m.media-amazon.com/images/I/81MhkEWK6jL._AC_SL1500_.jpg"
+        }
     }
 ]
